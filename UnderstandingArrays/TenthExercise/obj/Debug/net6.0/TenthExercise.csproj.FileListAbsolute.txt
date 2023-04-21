@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\bin\Debug\net6.0\TenthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\bin\Debug\net6.0\TenthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\bin\Debug\net6.0\TenthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\bin\Debug\net6.0\TenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\bin\Debug\net6.0\TenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\refint\TenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\TenthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TenthExercise\obj\Debug\net6.0\ref\TenthExercise.dll

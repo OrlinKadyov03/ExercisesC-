@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\bin\Debug\net6.0\SecondArrayExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\bin\Debug\net6.0\SecondArrayExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\bin\Debug\net6.0\SecondArrayExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\bin\Debug\net6.0\SecondArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\bin\Debug\net6.0\SecondArrayExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\refint\SecondArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\SecondArrayExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SecondArrayExercise\obj\Debug\net6.0\ref\SecondArrayExercise.dll

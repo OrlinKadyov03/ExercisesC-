@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\bin\Debug\net6.0\2ndExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\bin\Debug\net6.0\2ndExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\bin\Debug\net6.0\2ndExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\bin\Debug\net6.0\2ndExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\bin\Debug\net6.0\2ndExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\refint\2ndExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\2ndExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\2ndExercise\obj\Debug\net6.0\ref\2ndExercise.dll

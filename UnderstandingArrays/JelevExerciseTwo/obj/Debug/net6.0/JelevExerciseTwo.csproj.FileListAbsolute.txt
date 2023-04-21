@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\bin\Debug\net6.0\JelevExerciseTwo.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\bin\Debug\net6.0\JelevExerciseTwo.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\bin\Debug\net6.0\JelevExerciseTwo.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\bin\Debug\net6.0\JelevExerciseTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\bin\Debug\net6.0\JelevExerciseTwo.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\refint\JelevExerciseTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\JelevExerciseTwo.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExerciseTwo\obj\Debug\net6.0\ref\JelevExerciseTwo.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\bin\Debug\net6.0\11thh.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\bin\Debug\net6.0\11thh.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\bin\Debug\net6.0\11thh.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\bin\Debug\net6.0\11thh.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\bin\Debug\net6.0\11thh.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\refint\11thh.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\11thh.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\11thh\obj\Debug\net6.0\ref\11thh.dll

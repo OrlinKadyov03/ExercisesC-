@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\bin\Debug\net6.0\BinaryNumsNakov.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\bin\Debug\net6.0\BinaryNumsNakov.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\bin\Debug\net6.0\BinaryNumsNakov.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\bin\Debug\net6.0\BinaryNumsNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\bin\Debug\net6.0\BinaryNumsNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\refint\BinaryNumsNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\BinaryNumsNakov.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\BinaryNumsNakov\obj\Debug\net6.0\ref\BinaryNumsNakov.dll

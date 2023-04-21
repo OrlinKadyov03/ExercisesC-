@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\bin\Debug\net6.0\SixthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\bin\Debug\net6.0\SixthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\bin\Debug\net6.0\SixthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\bin\Debug\net6.0\SixthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\bin\Debug\net6.0\SixthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\refint\SixthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\SixthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\SixthExercise\obj\Debug\net6.0\ref\SixthExercise.dll

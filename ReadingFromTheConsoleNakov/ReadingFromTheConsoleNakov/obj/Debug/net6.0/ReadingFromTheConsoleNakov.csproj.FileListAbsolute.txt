@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\bin\Debug\net6.0\ReadingFromTheConsoleNakov.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\bin\Debug\net6.0\ReadingFromTheConsoleNakov.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\bin\Debug\net6.0\ReadingFromTheConsoleNakov.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\bin\Debug\net6.0\ReadingFromTheConsoleNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\bin\Debug\net6.0\ReadingFromTheConsoleNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\refint\ReadingFromTheConsoleNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ReadingFromTheConsoleNakov.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\ReadingFromTheConsoleNakov\obj\Debug\net6.0\ref\ReadingFromTheConsoleNakov.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\bin\Debug\net6.0\4th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\bin\Debug\net6.0\4th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\bin\Debug\net6.0\4th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\bin\Debug\net6.0\4th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\bin\Debug\net6.0\4th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\refint\4th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\4th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\ReadingFromTheConsoleNakov\4th\obj\Debug\net6.0\ref\4th.dll

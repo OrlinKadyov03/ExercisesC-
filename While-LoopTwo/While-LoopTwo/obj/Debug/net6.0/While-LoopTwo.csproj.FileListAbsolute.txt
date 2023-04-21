@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\bin\Debug\net6.0\While-LoopTwo.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\bin\Debug\net6.0\While-LoopTwo.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\bin\Debug\net6.0\While-LoopTwo.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\bin\Debug\net6.0\While-LoopTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\bin\Debug\net6.0\While-LoopTwo.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\refint\While-LoopTwo.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\While-LoopTwo.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-LoopTwo\While-LoopTwo\obj\Debug\net6.0\ref\While-LoopTwo.dll

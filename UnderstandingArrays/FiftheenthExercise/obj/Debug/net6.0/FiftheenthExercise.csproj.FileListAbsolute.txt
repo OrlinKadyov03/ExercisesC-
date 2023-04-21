@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\bin\Debug\net6.0\FiftheenthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\bin\Debug\net6.0\FiftheenthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\bin\Debug\net6.0\FiftheenthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\bin\Debug\net6.0\FiftheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\bin\Debug\net6.0\FiftheenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\refint\FiftheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\FiftheenthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FiftheenthExercise\obj\Debug\net6.0\ref\FiftheenthExercise.dll

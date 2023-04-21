@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\bin\Debug\net6.0\11тх.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\bin\Debug\net6.0\11тх.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\bin\Debug\net6.0\11тх.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\bin\Debug\net6.0\11тх.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\bin\Debug\net6.0\11тх.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\refint\11тх.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\11тх.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\11тх\obj\Debug\net6.0\ref\11тх.dll

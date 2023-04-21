@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\bin\Debug\net6.0\13th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\bin\Debug\net6.0\13th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\bin\Debug\net6.0\13th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\bin\Debug\net6.0\13th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\bin\Debug\net6.0\13th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\refint\13th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\13th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Operations\13th\obj\Debug\net6.0\ref\13th.dll

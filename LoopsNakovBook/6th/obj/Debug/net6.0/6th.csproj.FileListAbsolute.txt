@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\bin\Debug\net6.0\6th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\bin\Debug\net6.0\6th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\bin\Debug\net6.0\6th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\bin\Debug\net6.0\6th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\bin\Debug\net6.0\6th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\refint\6th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\6th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\LoopsNakovBook\6th\obj\Debug\net6.0\ref\6th.dll

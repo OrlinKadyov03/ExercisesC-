@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\bin\Debug\net6.0\14th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\bin\Debug\net6.0\14th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\bin\Debug\net6.0\14th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\bin\Debug\net6.0\14th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\bin\Debug\net6.0\14th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\refint\14th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\14th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\14th\obj\Debug\net6.0\ref\14th.dll

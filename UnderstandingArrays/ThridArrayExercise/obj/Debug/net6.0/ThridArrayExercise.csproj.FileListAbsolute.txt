@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\bin\Debug\net6.0\ThridArrayExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\bin\Debug\net6.0\ThridArrayExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\bin\Debug\net6.0\ThridArrayExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\bin\Debug\net6.0\ThridArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\bin\Debug\net6.0\ThridArrayExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\refint\ThridArrayExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ThridArrayExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThridArrayExercise\obj\Debug\net6.0\ref\ThridArrayExercise.dll

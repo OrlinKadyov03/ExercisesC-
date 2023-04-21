@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\bin\Debug\net6.0\EithnExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\bin\Debug\net6.0\EithnExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\bin\Debug\net6.0\EithnExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\bin\Debug\net6.0\EithnExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\bin\Debug\net6.0\EithnExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\refint\EithnExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\EithnExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\EithnExercise\obj\Debug\net6.0\ref\EithnExercise.dll

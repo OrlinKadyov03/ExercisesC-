@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\bin\Debug\net6.0\OneDimensionalArray.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\bin\Debug\net6.0\OneDimensionalArray.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\bin\Debug\net6.0\OneDimensionalArray.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\bin\Debug\net6.0\OneDimensionalArray.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\bin\Debug\net6.0\OneDimensionalArray.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\refint\OneDimensionalArray.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\OneDimensionalArray.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\OneDimensionalArray\obj\Debug\net6.0\ref\OneDimensionalArray.dll

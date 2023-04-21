@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\bin\Debug\net6.0\UnderstandingArrays.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\refint\UnderstandingArrays.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\UnderstandingArrays.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\UnderstandingArrays\obj\Debug\net6.0\ref\UnderstandingArrays.dll

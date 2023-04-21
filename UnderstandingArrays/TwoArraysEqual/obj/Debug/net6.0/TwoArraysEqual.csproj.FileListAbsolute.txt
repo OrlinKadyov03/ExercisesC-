@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\bin\Debug\net6.0\TwoArraysEqual.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\bin\Debug\net6.0\TwoArraysEqual.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\bin\Debug\net6.0\TwoArraysEqual.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\bin\Debug\net6.0\TwoArraysEqual.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\bin\Debug\net6.0\TwoArraysEqual.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\refint\TwoArraysEqual.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\TwoArraysEqual.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwoArraysEqual\obj\Debug\net6.0\ref\TwoArraysEqual.dll

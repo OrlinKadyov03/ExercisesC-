@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\bin\Debug\net6.0\JelevExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\bin\Debug\net6.0\JelevExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\bin\Debug\net6.0\JelevExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\bin\Debug\net6.0\JelevExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\bin\Debug\net6.0\JelevExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\refint\JelevExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\JelevExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevExercise\obj\Debug\net6.0\ref\JelevExercise.dll

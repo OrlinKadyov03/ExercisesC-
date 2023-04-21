@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\bin\Debug\net6.0\7th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\bin\Debug\net6.0\7th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\bin\Debug\net6.0\7th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\bin\Debug\net6.0\7th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\bin\Debug\net6.0\7th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\refint\7th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\7th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\BinaryNumsNakov\7th\obj\Debug\net6.0\ref\7th.dll

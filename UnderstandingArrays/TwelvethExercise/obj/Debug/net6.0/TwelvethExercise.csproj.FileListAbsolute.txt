@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\bin\Debug\net6.0\TwelvethExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\bin\Debug\net6.0\TwelvethExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\bin\Debug\net6.0\TwelvethExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\bin\Debug\net6.0\TwelvethExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\bin\Debug\net6.0\TwelvethExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\refint\TwelvethExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\TwelvethExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\TwelvethExercise\obj\Debug\net6.0\ref\TwelvethExercise.dll

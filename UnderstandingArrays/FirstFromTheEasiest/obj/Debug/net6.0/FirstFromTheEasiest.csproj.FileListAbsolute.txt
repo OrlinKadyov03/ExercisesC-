@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\bin\Debug\net6.0\FirstFromTheEasiest.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\bin\Debug\net6.0\FirstFromTheEasiest.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\bin\Debug\net6.0\FirstFromTheEasiest.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\bin\Debug\net6.0\FirstFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\bin\Debug\net6.0\FirstFromTheEasiest.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\refint\FirstFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\FirstFromTheEasiest.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FirstFromTheEasiest\obj\Debug\net6.0\ref\FirstFromTheEasiest.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\bin\Debug\net6.0\4thExercis.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\bin\Debug\net6.0\4thExercis.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\bin\Debug\net6.0\4thExercis.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\bin\Debug\net6.0\4thExercis.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\bin\Debug\net6.0\4thExercis.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\refint\4thExercis.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\4thExercis.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\While-Loop\4thExercis\obj\Debug\net6.0\ref\4thExercis.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\bin\Debug\net6.0\ThirteenthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\bin\Debug\net6.0\ThirteenthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\bin\Debug\net6.0\ThirteenthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\bin\Debug\net6.0\ThirteenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\bin\Debug\net6.0\ThirteenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\refint\ThirteenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ThirteenthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirteenthExercise\obj\Debug\net6.0\ref\ThirteenthExercise.dll

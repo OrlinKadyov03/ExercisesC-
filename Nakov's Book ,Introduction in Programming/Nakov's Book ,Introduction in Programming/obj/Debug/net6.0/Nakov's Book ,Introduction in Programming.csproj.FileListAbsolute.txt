@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\bin\Debug\net6.0\Nakov's Book ,Introduction in Programming.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\bin\Debug\net6.0\Nakov's Book ,Introduction in Programming.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\bin\Debug\net6.0\Nakov's Book ,Introduction in Programming.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\bin\Debug\net6.0\Nakov's Book ,Introduction in Programming.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\bin\Debug\net6.0\Nakov's Book ,Introduction in Programming.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\refint\Nakov's Book ,Introduction in Programming.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\Nakov's Book ,Introduction in Programming.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Nakov's Book ,Introduction in Programming\Nakov's Book ,Introduction in Programming\obj\Debug\net6.0\ref\Nakov's Book ,Introduction in Programming.dll

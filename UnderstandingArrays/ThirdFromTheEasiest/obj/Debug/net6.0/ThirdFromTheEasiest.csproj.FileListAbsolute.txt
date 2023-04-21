@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\bin\Debug\net6.0\ThirdFromTheEasiest.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\bin\Debug\net6.0\ThirdFromTheEasiest.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\bin\Debug\net6.0\ThirdFromTheEasiest.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\bin\Debug\net6.0\ThirdFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\bin\Debug\net6.0\ThirdFromTheEasiest.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\refint\ThirdFromTheEasiest.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ThirdFromTheEasiest.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\ThirdFromTheEasiest\obj\Debug\net6.0\ref\ThirdFromTheEasiest.dll

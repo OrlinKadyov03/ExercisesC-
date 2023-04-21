@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\bin\Debug\net6.0\NestedConditionalStatements.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\bin\Debug\net6.0\NestedConditionalStatements.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\bin\Debug\net6.0\NestedConditionalStatements.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\bin\Debug\net6.0\NestedConditionalStatements.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\bin\Debug\net6.0\NestedConditionalStatements.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\refint\NestedConditionalStatements.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\NestedConditionalStatements.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\NestedConditionalStatements\NestedConditionalStatements\obj\Debug\net6.0\ref\NestedConditionalStatements.dll

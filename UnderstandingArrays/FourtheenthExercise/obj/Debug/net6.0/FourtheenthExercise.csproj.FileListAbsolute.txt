@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\bin\Debug\net6.0\FourtheenthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\bin\Debug\net6.0\FourtheenthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\bin\Debug\net6.0\FourtheenthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\bin\Debug\net6.0\FourtheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\bin\Debug\net6.0\FourtheenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\refint\FourtheenthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\FourtheenthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\FourtheenthExercise\obj\Debug\net6.0\ref\FourtheenthExercise.dll

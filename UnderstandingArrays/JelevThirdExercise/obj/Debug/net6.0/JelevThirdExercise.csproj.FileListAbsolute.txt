@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\bin\Debug\net6.0\JelevThirdExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\bin\Debug\net6.0\JelevThirdExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\bin\Debug\net6.0\JelevThirdExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\bin\Debug\net6.0\JelevThirdExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\bin\Debug\net6.0\JelevThirdExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\refint\JelevThirdExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\JelevThirdExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevThirdExercise\obj\Debug\net6.0\ref\JelevThirdExercise.dll

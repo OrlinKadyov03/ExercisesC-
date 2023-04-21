@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\bin\Debug\net6.0\10th.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\bin\Debug\net6.0\10th.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\bin\Debug\net6.0\10th.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\bin\Debug\net6.0\10th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\bin\Debug\net6.0\10th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\refint\10th.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\10th.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\10th\obj\Debug\net6.0\ref\10th.dll

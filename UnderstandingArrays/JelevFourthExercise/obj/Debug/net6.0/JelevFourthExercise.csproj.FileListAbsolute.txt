@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\bin\Debug\net6.0\JelevFourthExercise.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\bin\Debug\net6.0\JelevFourthExercise.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\bin\Debug\net6.0\JelevFourthExercise.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\bin\Debug\net6.0\JelevFourthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\bin\Debug\net6.0\JelevFourthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\refint\JelevFourthExercise.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\JelevFourthExercise.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\JelevFourthExercise\obj\Debug\net6.0\ref\JelevFourthExercise.dll

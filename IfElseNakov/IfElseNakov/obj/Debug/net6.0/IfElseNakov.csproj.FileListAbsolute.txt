@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\bin\Debug\net6.0\IfElseNakov.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\bin\Debug\net6.0\IfElseNakov.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\bin\Debug\net6.0\IfElseNakov.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\bin\Debug\net6.0\IfElseNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\bin\Debug\net6.0\IfElseNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\refint\IfElseNakov.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\IfElseNakov.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\IfElseNakov\IfElseNakov\obj\Debug\net6.0\ref\IfElseNakov.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\bin\Debug\net6.0\13thb.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\bin\Debug\net6.0\13thb.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\bin\Debug\net6.0\13thb.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\bin\Debug\net6.0\13thb.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\bin\Debug\net6.0\13thb.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\refint\13thb.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\13thb.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\Arrays\13thb\obj\Debug\net6.0\ref\13thb.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\bin\Debug\net6.0\MaxNumbersUnderRow.exe
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\bin\Debug\net6.0\MaxNumbersUnderRow.deps.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\bin\Debug\net6.0\MaxNumbersUnderRow.runtimeconfig.json
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\bin\Debug\net6.0\MaxNumbersUnderRow.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\bin\Debug\net6.0\MaxNumbersUnderRow.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\refint\MaxNumbersUnderRow.dll
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.pdb
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\MaxNumbersUnderRow.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Programming Learning Journey\UnderstandingArrays\MaxNumbersUnderRow\obj\Debug\net6.0\ref\MaxNumbersUnderRow.dll
