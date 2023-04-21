@@ -1,2 +1,3 @@
-# ExercisesC-
+# Exercises
+
 FunctionalProgramming-Basics
