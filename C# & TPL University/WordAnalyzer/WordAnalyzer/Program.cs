@@ -37,6 +37,7 @@ namespace WordAnalyzer
             string longestW = FindLongestWord(validTextWords);
             string shortestW = FindShortestWord(validTextWords);
             double AverageW = FindAverageWord(validTextWords);
+            Dictionary<string, int> wordCounts = CountWordOccurence(validTextWords);
 
             static string FindLongestWord(List<string> words)
             {
@@ -78,10 +79,71 @@ namespace WordAnalyzer
                 }
 
             }
+            static Dictionary<string,int> CountWordOccurence(List<string> words)
+            {
+                Dictionary<string,int> wordCounts = new Dictionary<string,int>();
+                foreach (string word in words)
+                {
+                    if (wordCounts.ContainsKey(word))
+                    {
+                        wordCounts[word]++;
+                    }
+                    else
+                    {
+                        wordCounts[word] = 1;
+                    }
+                }
+                return wordCounts;
+            }
+
+            static List<KeyValuePair<string,int>> FindMostCommonWords(Dictionary<string,int> wordCount,int count)
+            {
+               List<KeyValuePair<string,int>> mostCommon = new List<KeyValuePair<string,int>>(count);
+                foreach (var pair in wordCount)
+                {
+                    if(mostCommon.Count < count || pair.Value >= mostCommon[count - 1].Value)
+                    {
+                        mostCommon.Add(pair);
+                        mostCommon.Sort((x, y) => y.Value.CompareTo(x.Value));
+                        if(mostCommon.Count > count)
+                        {
+                            mostCommon.RemoveAt(count);
+                        }
+                    }
+                }
+                return mostCommon;
+            }
+            static List<KeyValuePair<string, int>> FindLeastCommonWords(Dictionary<string, int> wordCount, int count)
+            {
+                List<KeyValuePair<string, int>> leastCommon = new List<KeyValuePair<string, int>>(count);
+                foreach (var pair in wordCount)
+                {
+                    if (leastCommon.Count < count || pair.Value <= leastCommon[count - 1].Value)
+                    {
+                        leastCommon.Add(pair);
+                        leastCommon.Sort((x, y) => x.Value.CompareTo(y.Value));
+                        if (leastCommon.Count > count)
+                        {
+                            leastCommon.RemoveAt(count);
+                        }
+                    }
+                }
+                return leastCommon;
+            }
             Console.WriteLine("Number of words {0}", nums);
             Console.WriteLine("Shortest word {0}", shortestW);
             Console.WriteLine("Longest word {0}", longestW);
-            Console.WriteLine("Average word {0:f2}", AverageW);
+            Console.WriteLine("Average word length {0:f2}", AverageW);
+            Console.WriteLine("Five Most Common words");
+            foreach (var pair in FindMostCommonWords(wordCounts,5))
+            {
+                Console.WriteLine(pair.Key + ": " + pair.Value + " " + "Times");
+            }
+            Console.WriteLine("Five most Uncommon words");
+            foreach (var pair in FindLeastCommonWords(wordCounts,5))
+            {
+                Console.WriteLine(pair.Key + ": " + pair.Value + " " + "Times");
+            }
 
         }
     }
