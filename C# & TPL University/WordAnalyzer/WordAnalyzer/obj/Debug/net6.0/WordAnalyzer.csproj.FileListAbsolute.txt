@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net6.0\WordAnalyzer.exe
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net6.0\WordAnalyzer.deps.json
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net6.0\WordAnalyzer.runtimeconfig.json
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net6.0\WordAnalyzer.dll
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\bin\Debug\net6.0\WordAnalyzer.pdb
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.dll
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\refint\WordAnalyzer.dll
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.pdb
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\WordAnalyzer.genruntimeconfig.cache
+C:\Users\Hp\source\repos\WordAnalyzer\WordAnalyzer\obj\Debug\net6.0\ref\WordAnalyzer.dll
