@@ -34,8 +34,9 @@ namespace WordAnalyzer
 
 
             int nums = validTextWords.Count;
-
             string longestW = FindLongestWord(validTextWords);
+            string shortestW = FindShortestWord(validTextWords);
+            double AverageW = FindAverageWord(validTextWords);
 
             static string FindLongestWord(List<string> words)
             {
@@ -49,8 +50,38 @@ namespace WordAnalyzer
                 }
                 return longest;
             }
+            static string FindShortestWord(List<string> words)
+            {
+                string shortest = null;
+                foreach (string word in words)
+                {
+                    if (shortest == null || word.Length < shortest.Length)
+                    {
+                        shortest = word;
+                    }
+                }
+                return shortest;
+            }
+            static double FindAverageWord(List<string> words)
+            {
+                double lengthW = 0;
+                foreach (string word in words)
+                {
+                    lengthW += word.Length;
+                }
+                if(words.Count > 0)
+                {
+                    return lengthW /words.Count;
+                }else
+                {
+                    return 0;
+                }
 
+            }
+            Console.WriteLine("Number of words {0}", nums);
+            Console.WriteLine("Shortest word {0}", shortestW);
             Console.WriteLine("Longest word {0}", longestW);
+            Console.WriteLine("Average word {0:f2}", AverageW);
 
         }
     }
