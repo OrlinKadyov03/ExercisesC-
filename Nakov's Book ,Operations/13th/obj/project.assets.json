@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\13th\\13th.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\13th\\13th.csproj",
       "projectName": "13th",
-      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\13th\\13th.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\13th\\13th.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\13th\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\13th\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

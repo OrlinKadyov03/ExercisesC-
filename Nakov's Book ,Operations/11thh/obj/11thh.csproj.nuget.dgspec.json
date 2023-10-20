@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\11thh\\11thh.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\11thh\\11thh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\11thh\\11thh.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\11thh\\11thh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\11thh\\11thh.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\11thh\\11thh.csproj",
         "projectName": "11thh",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\11thh\\11thh.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\11thh\\11thh.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\11thh\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\11thh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

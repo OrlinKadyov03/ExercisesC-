@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Arrays\\12th\\12th.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Arrays\\12th\\12th.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Arrays\\12th\\12th.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Arrays\\12th\\12th.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Arrays\\12th\\12th.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Arrays\\12th\\12th.csproj",
         "projectName": "12th",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Arrays\\12th\\12th.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Arrays\\12th\\12th.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Arrays\\12th\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Arrays\\12th\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

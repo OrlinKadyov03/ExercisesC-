@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\7th\\7th.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\7th\\7th.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\7th\\7th.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\7th\\7th.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\7th\\7th.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\7th\\7th.csproj",
         "projectName": "7th",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\7th\\7th.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\7th\\7th.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\Nakov's Book ,Operations\\7th\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Programming Learning Journey\\ExercisesC-\\Nakov's Book ,Operations\\7th\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
