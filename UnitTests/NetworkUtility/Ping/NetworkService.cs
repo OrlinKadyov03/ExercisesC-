@@ -9,12 +9,12 @@ namespace NetworkUtility.Ping
 {
     public class NetworkService
     {
-        public string SendPing() 
+        public string SendPing()
         {
             return "Success: Ping sent!";
         }
 
-        public int PingTimeout(int a,int b) 
+        public int PingTimeout(int a, int b)
         {
             return a + b;
         }
@@ -24,13 +24,36 @@ namespace NetworkUtility.Ping
             return DateTime.Now;
         }
 
-        public PingOptions GetPingOptions() 
+        public PingOptions GetPingOptions()
         {
             return new PingOptions()
             {
                 DontFragment = true,
                 Ttl = 1
             };
+        }
+        public IEnumerable<PingOptions> MostRecentPings()
+        {
+            IEnumerable<PingOptions> pingsOptions = new[]
+            {
+             new PingOptions()
+            {
+                DontFragment = true,
+                Ttl = 1
+            },
+             new PingOptions()
+            {
+                DontFragment = true,
+                Ttl = 1
+            },
+             new PingOptions()
+            {
+                DontFragment = true,
+                Ttl = 1
+            }
+
+            };
+            return pingsOptions;
         }
     }
 }
