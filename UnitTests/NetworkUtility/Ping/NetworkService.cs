@@ -17,5 +17,10 @@ namespace NetworkUtility.Ping
         {
             return a + b;
         }
+
+        public DateTime LastDatePing()
+        {
+            return DateTime.Now;
+        }
     }
 }

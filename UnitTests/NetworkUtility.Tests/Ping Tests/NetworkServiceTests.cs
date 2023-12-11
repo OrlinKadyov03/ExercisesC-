@@ -1,4 +1,5 @@
 ﻿using FluentAssertions;
+using FluentAssertions.Extensions;
 using NetworkUtility.Ping;
 using System;
 using System.Collections.Generic;
@@ -47,6 +48,19 @@ namespace NetworkUtility.Tests.Ping_Tests
             result.Should().Be(expected);
             result.Should().BeGreaterThanOrEqualTo(2);
             result.Should().NotBeInRange(-10000, 0);
+        }
+
+        [Fact]
+        public void NetworkService_LastDatePing_ReturnDate()
+        {
+            // arrange
+
+            // act
+            var result = _pingService.LastDatePing();
+
+            // assert
+            result.Should().BeAfter(1.January(2010));
+            result.Should().BeBefore(1.January(2030));
         }
     }
 }
