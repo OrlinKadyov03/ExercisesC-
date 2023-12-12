@@ -100,5 +100,23 @@ namespace NetworkUtility.Tests.Ping_Tests
             result.Should().ContainEquivalentOf(expected);
             result.Should().Contain(x  => x.DontFragment == true);
         }
+        [Fact]
+
+        public void NetworkService_SendPingTwo_ReturnString()
+        {
+            // arrange - variables , classes, mocks
+
+            // Act
+
+            var result = _pingService.SendPingTwo();
+
+            //Assert
+
+            result.Should().NotBeNullOrWhiteSpace();
+            result.Should().Be("Success: Ping Two sent!");
+            result.Should().Contain("Success", Exactly.Once());
+
+
+        }
     }
 }

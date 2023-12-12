@@ -14,6 +14,11 @@ namespace NetworkUtility.Ping
             return "Success: Ping sent!";
         }
 
+        public string SendPingTwo()
+        {
+            return "Success: Ping Two sent!";
+        }
+
         public int PingTimeout(int a, int b)
         {
             return a + b;
